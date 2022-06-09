@@ -1,6 +1,6 @@
 ## Como usar?
 Fiz essa rest api por diversão,e por ter preguiça de ir procurar memes e base pra alimentar minhas redes sociais
-Como nem todos talvez saibam, eu sou uma pessoa influente no mundo dos memes
+
 
 ## Base
 ```js
